@@ -4,3 +4,9 @@
  Au menu 
  Prise de contact avec Linux
  initier github desktop
+ 
+>Il était une fois, dans un endroit *lugubre* et *fort peu fréquenté*
+
+>Une sorcière aussi laide que l'on pouvait l'imaginer, du nom de **Bicoda**
+
+>Son visage était si hideux, qu'il faisait même fuir les orques de la contrée
