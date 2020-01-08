@@ -2,8 +2,11 @@
  Titre : Apprenti codeur
 
  Au menu 
+ 
  Prise de contact avec Linux
+ 
  initier github desktop
+ 
  
 >Il était une fois, dans un endroit *lugubre* et *fort peu fréquenté*
 
