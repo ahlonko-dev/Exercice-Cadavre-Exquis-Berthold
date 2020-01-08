@@ -12,4 +12,8 @@
 
 >Une sorcière aussi laide que l'on pouvait l'imaginer, du nom de **Bicoda**
 
->Son visage était si hideux, qu'il faisait même fuir les orques de la contrée
+>Son visage était si hideux, qu'il faisait même fuir les orques de la contrée  
+
+Il était une fois *Cyrille*.  
+Il vivait à **Liège** avec ses parents.  
+Ce matin il se levait pour aller au travail.  
